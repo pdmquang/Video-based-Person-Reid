@@ -119,3 +119,6 @@ Please cite this paper in your publications if it helps your research:
   year={2018}
 }
 ```
+
+## Credit
+Credit to [ahangchen](https://github.com/ahangchen/rank-reid.git)
